@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dare-or-dodge/1.0.0": {
+        "runtime": {
+          "dare-or-dodge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dare-or-dodge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
